@@ -5,5 +5,5 @@
 # Unit test color add
 !! green dark/light
 *color2:                          #7E807E
-*** this one let you have color scheme on "PASS" test
+# this one let you have color scheme on "PASS" test
 *color10:                         #009874
